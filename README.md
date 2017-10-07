@@ -5,7 +5,7 @@ This web page is meant to display personal information and also a gallery of the
 ## How it works 
 
 1- make sure you have **chrome** installed on you device or any other **browser**  
-2- run the `index.html` on your **brower**
+2- run the `index.html` on your **browser**
  
 ## Run it throught CMD 
 
